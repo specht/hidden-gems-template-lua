@@ -1,2 +1,2 @@
 @echo off
-lua bot.lua
+lua bot.lua %*
